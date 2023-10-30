@@ -2,8 +2,10 @@ public class TestCat {
 
     public static void main(String[] args) {
         Cat c1 = new Cat();
-        Cat res = c1.createCat("Qwerty");
-        System.out.println(res.name);
+        Cat c2 = c1.createCat("Qwerty");
+        System.out.println(c2.name);
+        Cat c3 = c1.createCat(null);
+
     }
 }
 
@@ -12,14 +14,12 @@ class Cat {
 
     Cat createCat(String value) {
 
+        if(value == null) {
+            return null;
+        }
         Cat temp = new Cat();
+        temp.name = value;
 
-        if(value != null) {
-            temp.name = value;
-        }
-        else {
-            System.out.println("null");
-        }
         return temp;
     }
 }
