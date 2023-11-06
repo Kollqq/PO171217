@@ -26,8 +26,13 @@ public class Player {
        return number;
     }
 
-    public  void setName(int number) {
-        this.number = number;
+    public  void setNumber(int number) {
+        if (number >= 0){
+            this.number = number;
+        }
+        else {
+            this.number = 10;
+        }
     }
 
     public String introduce() {
