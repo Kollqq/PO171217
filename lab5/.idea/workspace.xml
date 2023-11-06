@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="128a144f-ff72-43f7-b1cb-724a6834edbb" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/cars/zad3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/cars/zad3/TestCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tech/telco/zad11/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tech/telco/zad11/TestPhone.java" afterDir="false" />
-    </list>
+    <list default="true" id="128a144f-ff72-43f7-b1cb-724a6834edbb" name="Changes" comment="a" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -67,7 +56,7 @@
       <workItem from="1699271249402" duration="47000" />
       <workItem from="1699271319580" duration="616000" />
       <workItem from="1699272382310" duration="88000" />
-      <workItem from="1699272515647" duration="880000" />
+      <workItem from="1699272515647" duration="1599000" />
     </task>
     <servers />
   </component>
